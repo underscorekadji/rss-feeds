@@ -1,3 +1,4 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -13,8 +14,6 @@ logger = logging.getLogger(__name__)
 
 def get_project_root():
     """Get the project root directory."""
-    # Since this script is in feed_generators/ollama_blog.py,
-    # we need to go up one level to reach the project root
     return Path(__file__).parent.parent
 
 
@@ -25,8 +24,8 @@ def ensure_feeds_directory():
     return feeds_dir
 
 
-def fetch_blog_content(url):
-    """Fetch blog content from the given URL."""
+def fetch_html_content(url):
+    """Fetch HTML content from the given URL."""
     try:
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
@@ -35,34 +34,53 @@ def fetch_blog_content(url):
         response.raise_for_status()
         return response.text
     except requests.RequestException as e:
-        logger.error(f"Error fetching blog content: {str(e)}")
+        logger.error(f"Error fetching content from {url}: {str(e)}")
         raise
 
 
-def parse_blog_html(html_content):
-    """Parse the blog HTML content and extract post information."""
+def get_article_description(article_url):
+    """Fetch and extract the first paragraph of the article as description."""
+    try:
+        html_content = fetch_html_content(article_url)
+        soup = BeautifulSoup(html_content, "html.parser")
+
+        # Find the first text content after the title
+        paragraphs = soup.find_all(["p", "div", "font"])
+        for p in paragraphs:
+            text = p.get_text().strip()
+            if text and len(text) > 50:  # Ensure it's a substantial paragraph
+                return text[:500] + "..." if len(text) > 500 else text
+
+        return "No description available"
+    except Exception as e:
+        logger.error(f"Error fetching description for {article_url}: {str(e)}")
+        return "Description unavailable"
+
+
+def parse_essays_page(html_content, base_url="https://paulgraham.com"):
+    """Parse the essays HTML page and extract blog post information."""
     try:
         soup = BeautifulSoup(html_content, "html.parser")
         blog_posts = []
 
-        # Find all blog post sections
-        posts = soup.select('section a[href^="/blog/"]')
+        # Find all essay links
+        links = soup.select('font[size="2"] a')
 
-        for post in posts:
-            # Extract title
-            title = post.select_one("h2").text.strip()
+        for link in links:
+            # Extract title and link
+            title = link.text.strip()
+            href = link.get("href")
+            if not href:
+                continue
 
-            # Extract date
-            date_str = post.select_one("h3").text.strip()
-            date_obj = datetime.strptime(date_str, "%B %d, %Y")
+            full_url = f"{base_url}/{href}" if not href.startswith("http") else href
 
-            # Extract description
-            description = post.select_one("p").text.strip()
+            # Get description from the article page
+            description = get_article_description(full_url)
 
-            # Extract link
-            link = f"https://ollama.com{post['href']}"
-
-            blog_posts.append({"title": title, "date": date_obj, "description": description, "link": link})
+            # Since exact dates aren't available on the main page,
+            # we'll set the date to None and sort by order of appearance
+            blog_posts.append({"title": title, "link": full_url, "description": description})
 
         logger.info(f"Successfully parsed {len(blog_posts)} blog posts")
         return blog_posts
@@ -72,21 +90,20 @@ def parse_blog_html(html_content):
         raise
 
 
-def generate_rss_feed(blog_posts, feed_name="ollama"):
+def generate_rss_feed(blog_posts, feed_name="paulgraham"):
     """Generate RSS feed from blog posts."""
     try:
         fg = FeedGenerator()
-        fg.title("Ollama Blog")
-        fg.description("Get up and running with large language models.")
-        fg.link(href="https://ollama.com/blog")
+        fg.title("Paul Graham Essays")
+        fg.description("Essays by Paul Graham")
+        fg.link(href="https://paulgraham.com/articles.html")
         fg.language("en")
 
         # Set feed metadata
-        fg.author({"name": "Ollama"})
-        fg.logo("https://ollama.com/public/icon-64x64.png")
-        fg.subtitle("Latest updates from Ollama")
-        fg.link(href="https://ollama.com/blog", rel="alternate")
-        fg.link(href=f"https://ollama.com/blog/feed_{feed_name}.xml", rel="self")
+        fg.author({"name": "Paul Graham"})
+        fg.subtitle("Paul Graham's Essays and Writings")
+        fg.link(href="https://paulgraham.com/articles.html", rel="alternate")
+        fg.link(href=f"https://paulgraham.com/feed_{feed_name}.xml", rel="self")
 
         # Add entries
         for post in blog_posts:
@@ -94,7 +111,8 @@ def generate_rss_feed(blog_posts, feed_name="ollama"):
             fe.title(post["title"])
             fe.description(post["description"])
             fe.link(href=post["link"])
-            fe.published(post["date"].replace(tzinfo=pytz.UTC))
+            # Since we don't have actual dates, we'll use current date
+            fe.published(datetime.now(pytz.UTC))
             fe.id(post["link"])
 
         logger.info("Successfully generated RSS feed")
@@ -105,16 +123,11 @@ def generate_rss_feed(blog_posts, feed_name="ollama"):
         raise
 
 
-def save_rss_feed(feed_generator, feed_name="ollama"):
+def save_rss_feed(feed_generator, feed_name="paulgraham"):
     """Save the RSS feed to a file in the feeds directory."""
     try:
-        # Ensure feeds directory exists and get its path
         feeds_dir = ensure_feeds_directory()
-
-        # Create the output file path
         output_filename = feeds_dir / f"feed_{feed_name}.xml"
-
-        # Save the feed
         feed_generator.rss_file(str(output_filename), pretty=True)
         logger.info(f"Successfully saved RSS feed to {output_filename}")
         return output_filename
@@ -124,14 +137,14 @@ def save_rss_feed(feed_generator, feed_name="ollama"):
         raise
 
 
-def main(blog_url="https://ollama.com/blog", feed_name="ollama"):
+def main(blog_url="https://paulgraham.com/articles.html", feed_name="paulgraham"):
     """Main function to generate RSS feed from blog URL."""
     try:
         # Fetch blog content
-        html_content = fetch_blog_content(blog_url)
+        html_content = fetch_html_content(blog_url)
 
-        # Parse blog posts from HTML
-        blog_posts = parse_blog_html(html_content)
+        # Parse blog posts
+        blog_posts = parse_essays_page(html_content)
 
         # Generate RSS feed
         feed = generate_rss_feed(blog_posts, feed_name)
