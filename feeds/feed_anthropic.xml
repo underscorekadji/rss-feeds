@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jan 2025 02:52:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 04:45:11 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -701,6 +701,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/alignment-faking</guid>
       <category>Alignment</category>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic achieves ISO 42001 certification for responsible AI</title>
+      <link>https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai</link>
+      <description>Anthropic achieves ISO 42001 certification for responsible AI</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai</guid>
+      <category>Announcements</category>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

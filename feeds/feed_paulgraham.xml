@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jan 2025 20:42:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 04:45:39 +0000</lastBuildDate>
     <item>
       <title>RSS</title>
       <link>https://paulgraham.com/rss.html</link>
       <description>No description available</description>
       <guid isPermaLink="false">https://paulgraham.com/rss.html</guid>
-      <pubDate>Sat, 04 Jan 2025 20:42:34 +0000</pubDate>
+      <pubDate>Thu, 16 Jan 2025 04:45:39 +0000</pubDate>
     </item>
     <item>
       <title>This Year We Can End the Death Penalty in California</title>
@@ -44,21 +44,21 @@ as a big city conceals fugitives.  Such software will be
 hard to read, hard to test, and hard to debug.In accordance with this principle, a large program must be divided
 i...</description>
       <guid isPermaLink="false">https://paulgraham.com/progbot.html</guid>
-      <pubDate>Sat, 04 Jan 2025 20:42:34 +0000</pubDate>
+      <pubDate>Thu, 16 Jan 2025 04:45:39 +0000</pubDate>
     </item>
     <item>
       <title>Chapter 2 of Ansi Common Lisp</title>
-      <link>https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1730199416&amp;</link>
+      <link>https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1736805971&amp;</link>
       <description>No description available</description>
-      <guid isPermaLink="false">https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1730199416&amp;</guid>
-      <pubDate>Sat, 04 Jan 2025 20:42:34 +0000</pubDate>
+      <guid isPermaLink="false">https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1736805971&amp;</guid>
+      <pubDate>Thu, 16 Jan 2025 04:45:39 +0000</pubDate>
     </item>
     <item>
       <title>Chapter 1 of Ansi Common Lisp</title>
-      <link>https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1730199416&amp;</link>
+      <link>https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1736805971&amp;</link>
       <description>No description available</description>
-      <guid isPermaLink="false">https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1730199416&amp;</guid>
-      <pubDate>Sat, 04 Jan 2025 20:42:34 +0000</pubDate>
+      <guid isPermaLink="false">https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1736805971&amp;</guid>
+      <pubDate>Thu, 16 Jan 2025 04:45:39 +0000</pubDate>
     </item>
     <item>
       <title>Lisp for Web-Based Applications</title>
@@ -200,7 +200,7 @@ but you shouldn't have to express every program as the
 definition of new types.I think there are five reasons people like object-oriented   
 progra...</description>
       <guid isPermaLink="false">https://paulgraham.com/noop.html</guid>
-      <pubDate>Sat, 04 Jan 2025 20:42:32 +0000</pubDate>
+      <pubDate>Thu, 16 Jan 2025 04:45:39 +0000</pubDate>
     </item>
     <item>
       <title>Taste for Makers</title>
@@ -228,7 +228,7 @@ described this way.
 Algol: Assembly language is too low-level.Pascal: Algol doesn't have enough data types.Modula: Pascal is too wimpy for systems programming.
 Simula: Algol isn't good enough at simulations.Smalltalk: Not everything in Simula is an object.Fortran: Assembly language is too low-level.Cobo...</description>
       <guid isPermaLink="false">https://paulgraham.com/fix.html</guid>
-      <pubDate>Sat, 04 Jan 2025 20:42:32 +0000</pubDate>
+      <pubDate>Thu, 16 Jan 2025 04:45:38 +0000</pubDate>
     </item>
     <item>
       <title>Succinctness is Power</title>
@@ -801,19 +801,19 @@ by the end of the summer.  ...</description>
     <item>
       <title>Ideas for Startups</title>
       <link>https://paulgraham.com/ideas.html</link>
-      <description>Want to start a startup?  Get funded by
-Y Combinator.
+      <description>Want to start a startup?  Get funded by&#13;
+Y Combinator.&#13;
 
 
 
-
-October 2005(This essay is derived from a talk at the 2005 
-Startup School.)How do you get good ideas for 
-startups?  That's probably the number
-one question people ask me.I'd like to reply with another question: why do people think it's
-hard to come up with ideas for startups?That might seem a stupid thing to ask.  Why do they think
-it's hard?  If people can't do it, then it is hard, at least
-for them.  Right?Well, maybe not.  What peopl...</description>
+&#13;
+October 2005(This essay is derived from a talk at the 2005 &#13;
+Startup School.)How do you get good ideas for &#13;
+startups?  That's probably the number&#13;
+one question people ask me.I'd like to reply with another question: why do people think it's&#13;
+hard to come up with ideas for startups?That might seem a stupid thing to ask.  Why do they think&#13;
+it's hard?  If people can't do it, then it is hard, at least&#13;
+for them.  Right?Well, maybe not.  W...</description>
       <guid isPermaLink="false">https://paulgraham.com/ideas.html</guid>
       <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
     </item>
@@ -3433,6 +3433,23 @@ computers know how many people aren't; writers know how many people
 need help writing.The reason so many people have trouble writing is tha...</description>
       <guid isPermaLink="false">https://paulgraham.com/writes.html</guid>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Origins of Wokeness</title>
+      <link>https://paulgraham.com/woke.html</link>
+      <description>The word "prig" isn't very common now, but if you look up
+the definition, it will sound familiar. Google's isn't bad:
+
+  A self-righteously moralistic person who behaves as if
+  superior to others.
+
+This sense of the word originated in the 18th century, and
+its age is an important clue: it shows that although
+wokeness is a comparatively recent phenomenon, it's an
+instance of a much older one.There's a certain kind of person who's attracted to a
+shallow, exacting kind of moral purity, and who dem...</description>
+      <guid isPermaLink="false">https://paulgraham.com/woke.html</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Lose Time and Money</title>
