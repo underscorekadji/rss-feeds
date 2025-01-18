@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jan 2025 17:33:15 +0000</lastBuildDate>
-    <item>
-      <title>RSS</title>
-      <link>https://paulgraham.com/rss.html</link>
-      <description>No description available</description>
-      <guid isPermaLink="false">https://paulgraham.com/rss.html</guid>
-      <pubDate>Sat, 18 Jan 2025 17:33:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Jan 2025 17:37:34 +0000</lastBuildDate>
     <item>
       <title>This Year We Can End the Death Penalty in California</title>
       <link>https://paulgraham.com/prop62.html</link>
@@ -29,36 +22,6 @@ Defendants' lawyers are often incompetent.  And prosecutors
 are often mo...</description>
       <guid isPermaLink="false">https://paulgraham.com/prop62.html</guid>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Programming Bottom-Up</title>
-      <link>https://paulgraham.com/progbot.html</link>
-      <description>1993
-
-(This essay is from the introduction to On Lisp.)
-It's a long-standing principle of programming style that the functional
-elements of a program should not be too large.  If some component of a
-program grows beyond the stage where it's readily comprehensible,
-it becomes a mass of complexity which conceals errors as easily
-as a big city conceals fugitives.  Such software will be
-hard to read, hard to test, and hard to debug.In accordance with this principle, a large program must be divided
-i...</description>
-      <guid isPermaLink="false">https://paulgraham.com/progbot.html</guid>
-      <pubDate>Sat, 18 Jan 2025 17:33:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chapter 2 of Ansi Common Lisp</title>
-      <link>https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1736805971&amp;</link>
-      <description>No description available</description>
-      <guid isPermaLink="false">https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1736805971&amp;</guid>
-      <pubDate>Sat, 18 Jan 2025 17:33:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chapter 1 of Ansi Common Lisp</title>
-      <link>https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1736805971&amp;</link>
-      <description>No description available</description>
-      <guid isPermaLink="false">https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1736805971&amp;</guid>
-      <pubDate>Sat, 18 Jan 2025 17:33:14 +0000</pubDate>
     </item>
     <item>
       <title>Lisp for Web-Based Applications</title>
@@ -188,21 +151,6 @@ by McCarthy in the course of developing Lisp.
       <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why Arc Isn't Especially Object-Oriented</title>
-      <link>https://paulgraham.com/noop.html</link>
-      <description>There is a kind of mania for object-oriented programming at the moment, but
-
-some of the smartest programmers I know are some of the least excited about it.My own feeling is that object-oriented
-programming is a useful technique in some
-cases, but it isn't something that has to pervade every program you
-write.  You should be able to define new types,
-but you shouldn't have to express every program as the
-definition of new types.I think there are five reasons people like object-oriented   
-progra...</description>
-      <guid isPermaLink="false">https://paulgraham.com/noop.html</guid>
-      <pubDate>Sat, 18 Jan 2025 17:33:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Taste for Makers</title>
       <link>https://paulgraham.com/taste.html</link>
       <description>"...Copernicus'
@@ -216,19 +164,6 @@ world for ugly mathematics."- G. H. Hardy, A Mathematician's Apology
 I was talking recently to ...</description>
       <guid isPermaLink="false">https://paulgraham.com/taste.html</guid>
       <pubDate>Fri, 01 Feb 2002 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Languages Fix</title>
-      <link>https://paulgraham.com/fix.html</link>
-      <description>Kevin Kelleher suggested an interesting way to compare programming
-languages: to describe each in terms of the problem it
-fixes.  The surprising thing is how many, and how well, languages can be
-described this way.
-
-Algol: Assembly language is too low-level.Pascal: Algol doesn't have enough data types.Modula: Pascal is too wimpy for systems programming.
-Simula: Algol isn't good enough at simulations.Smalltalk: Not everything in Simula is an object.Fortran: Assembly language is too low-level.Cobo...</description>
-      <guid isPermaLink="false">https://paulgraham.com/fix.html</guid>
-      <pubDate>Sat, 18 Jan 2025 17:33:12 +0000</pubDate>
     </item>
     <item>
       <title>Succinctness is Power</title>
