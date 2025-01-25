@@ -7,34 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jan 2025 09:12:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 10:10:31 +0000</lastBuildDate>
     <item>
       <title>DALL·E 3</title>
       <link>https://openai.com/index/dall-e-3/</link>
       <description>DALL·E 3</description>
       <category>Research</category>
-      <pubDate>Sat, 25 Jan 2025 09:12:18 +0000</pubDate>
+      <pubDate>Sat, 25 Jan 2025 10:10:31 +0000</pubDate>
     </item>
     <item>
       <title>GPT-4</title>
       <link>https://openai.com/index/gpt-4/</link>
       <description>GPT-4</description>
       <category>Research</category>
-      <pubDate>Sat, 25 Jan 2025 09:12:18 +0000</pubDate>
+      <pubDate>Sat, 25 Jan 2025 10:10:31 +0000</pubDate>
     </item>
     <item>
       <title>DALL·E 2</title>
       <link>https://openai.com/index/dall-e-2/</link>
       <description>DALL·E 2</description>
       <category>Research</category>
-      <pubDate>Sat, 25 Jan 2025 09:12:18 +0000</pubDate>
+      <pubDate>Sat, 25 Jan 2025 10:10:31 +0000</pubDate>
     </item>
     <item>
       <title>Sora</title>
       <link>https://openai.com/index/sora/</link>
       <description>Sora</description>
       <category>Research</category>
-      <pubDate>Sat, 25 Jan 2025 09:12:18 +0000</pubDate>
+      <pubDate>Sat, 25 Jan 2025 10:10:31 +0000</pubDate>
     </item>
     <item>
       <title>Weight normalization: A simple reparameterization to accelerate training of deep neural networks</title>
