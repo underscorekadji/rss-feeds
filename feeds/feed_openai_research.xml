@@ -7,27 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Feb 2025 23:11:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 00:52:12 +0000</lastBuildDate>
     <item>
       <title>Sora</title>
       <link>https://openai.com/index/sora/</link>
       <description>Sora</description>
       <category>Research</category>
-      <pubDate>Mon, 03 Feb 2025 23:11:35 +0000</pubDate>
+      <pubDate>Tue, 04 Feb 2025 00:52:12 +0000</pubDate>
     </item>
     <item>
       <title>GPT-4</title>
       <link>https://openai.com/index/gpt-4/</link>
       <description>GPT-4</description>
       <category>Research</category>
-      <pubDate>Mon, 03 Feb 2025 23:11:35 +0000</pubDate>
+      <pubDate>Tue, 04 Feb 2025 00:52:12 +0000</pubDate>
     </item>
     <item>
       <title>DALL·E 2</title>
       <link>https://openai.com/index/dall-e-2/</link>
       <description>DALL·E 2</description>
       <category>Research</category>
-      <pubDate>Mon, 03 Feb 2025 23:11:35 +0000</pubDate>
+      <pubDate>Tue, 04 Feb 2025 00:52:12 +0000</pubDate>
     </item>
     <item>
       <title>Weight normalization: A simple reparameterization to accelerate training of deep neural networks</title>
@@ -779,16 +779,16 @@
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CLIP: Connecting text and images</title>
-      <link>https://openai.com/index/clip/</link>
-      <description>CLIP: Connecting text and images</description>
+      <title>DALL·E: Creating images from text</title>
+      <link>https://openai.com/index/dall-e/</link>
+      <description>DALL·E: Creating images from text</description>
       <category>Research</category>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DALL·E: Creating images from text</title>
-      <link>https://openai.com/index/dall-e/</link>
-      <description>DALL·E: Creating images from text</description>
+      <title>CLIP: Connecting text and images</title>
+      <link>https://openai.com/index/clip/</link>
+      <description>CLIP: Connecting text and images</description>
       <category>Research</category>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
     </item>
@@ -1017,16 +1017,16 @@
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Improved Techniques for Training Consistency Models</title>
-      <link>https://openai.com/index/improved-techniques-for-training-consistency-models/</link>
-      <description>Improved Techniques for Training Consistency Models</description>
+      <title>A Holistic Approach to Undesired Content Detection in the Real World</title>
+      <link>https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world/</link>
+      <description>A Holistic Approach to Undesired Content Detection in the Real World</description>
       <category>Research</category>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Holistic Approach to Undesired Content Detection in the Real World</title>
-      <link>https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world/</link>
-      <description>A Holistic Approach to Undesired Content Detection in the Real World</description>
+      <title>Improved Techniques for Training Consistency Models</title>
+      <link>https://openai.com/index/improved-techniques-for-training-consistency-models/</link>
+      <description>Improved Techniques for Training Consistency Models</description>
       <category>Research</category>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
     </item>
