@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Feb 2025 13:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 14:10:52 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -717,6 +717,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/introducing-citations-api</guid>
       <category>Product</category>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lyft to bring Claude to more than 40 million riders and over 1 million drivers</title>
+      <link>https://www.anthropic.com/news/lyft-announcement</link>
+      <description>Lyft to bring Claude to more than 40 million riders and over 1 million drivers</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/lyft-announcement</guid>
+      <category>Announcements</category>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
