@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Feb 2025 12:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 13:19:34 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -733,6 +733,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/the-anthropic-economic-index</guid>
       <category>Announcements</category>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statement from Dario Amodei on the Paris AI Action Summit</title>
+      <link>https://www.anthropic.com/news/paris-ai-summit</link>
+      <description>Statement from Dario Amodei on the Paris AI Action Summit</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/paris-ai-summit</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
