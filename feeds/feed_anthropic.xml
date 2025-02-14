@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Feb 2025 23:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 00:52:21 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -741,6 +741,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/paris-ai-summit</guid>
       <category>Announcements</category>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic signs MOU with UK Government to explore how AI can transform UK public services</title>
+      <link>https://www.anthropic.com/news/mou-uk-government</link>
+      <description>Anthropic signs MOU with UK Government to explore how AI can transform UK public services</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/mou-uk-government</guid>
+      <category>Announcements</category>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
