@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Feb 2025 18:15:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 19:09:12 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -749,6 +749,22 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/mou-uk-government</guid>
       <category>Announcements</category>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude’s extended thinking</title>
+      <link>https://www.anthropic.com/research/visible-extended-thinking</link>
+      <description>Claude’s extended thinking</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/visible-extended-thinking</guid>
+      <category>Announcements</category>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude 3.7 Sonnet and Claude Code</title>
+      <link>https://www.anthropic.com/news/claude-3-7-sonnet</link>
+      <description>Claude 3.7 Sonnet and Claude Code</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-3-7-sonnet</guid>
+      <category>Announcements</category>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
