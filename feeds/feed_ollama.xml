@@ -13,7 +13,7 @@
       <link>https://ollama.com/blog/feed_ollama.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Feb 2025 13:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 14:11:24 +0000</lastBuildDate>
     <item>
       <title>Run Llama 2 uncensored locally</title>
       <link>https://ollama.com/blog/run-llama2-uncensored-locally</link>
@@ -181,6 +181,13 @@
       <description>Ollama now supports structured outputs making it possible to constrain a model's output to a specific format defined by a JSON schema. The Ollama Python and JavaScript libraries have been updated to support structured outputs.</description>
       <guid isPermaLink="false">https://ollama.com/blog/structured-outputs</guid>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Minions: where local and cloud LLMs meet</title>
+      <link>https://ollama.com/blog/minions</link>
+      <description>Avanika Narayan, Dan Biderman, and Sabri Eyuboglu from Christopher Ré's Stanford Hazy Research lab, along with Avner May, Scott Linderman, James Zou, have developed a way to shift a substantial portion of LLM workloads to consumer devices by having small on-device models (such as Llama 3.2 with Ollama) collaborate with larger models in the cloud (such as GPT-4o).</description>
+      <guid isPermaLink="false">https://ollama.com/blog/minions</guid>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
