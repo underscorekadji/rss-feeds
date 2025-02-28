@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Feb 2025 15:11:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 16:14:38 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -781,6 +781,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/introducing-anthropic-transparency-hub</guid>
       <category>Societal Impacts</category>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam</title>
+      <link>https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam</link>
+      <description>Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam</guid>
+      <category>Announcements</category>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
