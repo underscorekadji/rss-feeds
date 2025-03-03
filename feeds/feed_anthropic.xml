@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Mar 2025 16:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 17:10:55 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -789,6 +789,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam</guid>
       <category>Announcements</category>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic raises Series E at $61.5B post-money valuation</title>
+      <link>https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation</link>
+      <description>Anthropic raises Series E at $61.5B post-money valuation</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation</guid>
+      <category>Announcements</category>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
