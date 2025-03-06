@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Mar 2025 16:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 17:11:05 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -804,6 +804,14 @@
       <description>Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan</guid>
       <category>Societal Impacts</category>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Get to production faster with the upgraded Anthropic Console</title>
+      <link>https://www.anthropic.com/news/upgraded-anthropic-console</link>
+      <description>Get to production faster with the upgraded Anthropic Console</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/upgraded-anthropic-console</guid>
+      <category>Product</category>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
