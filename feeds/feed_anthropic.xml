@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Mar 2025 21:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 22:11:34 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -828,6 +828,14 @@
       <description>Progress from our Frontier Red Team</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team</guid>
       <category>Policy</category>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic’s Response to Governor Newsom’s AI Working Group Draft Report</title>
+      <link>https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report</link>
+      <description>Anthropic’s Response to Governor Newsom’s AI Working Group Draft Report</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report</guid>
+      <category>Societal Impacts</category>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
