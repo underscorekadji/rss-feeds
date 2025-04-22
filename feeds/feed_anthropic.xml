@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Mar 2025 16:15:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 20:13:44 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -845,6 +845,86 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/web-search</guid>
       <category>Product</category>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tracing the thoughts of a large language model</title>
+      <link>https://www.anthropic.com/research/tracing-thoughts-language-model</link>
+      <description>Tracing the thoughts of a large language model</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/tracing-thoughts-language-model</guid>
+      <category>Interpretability</category>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Economic Index: Insights from Claude 3.7 Sonnet</title>
+      <link>https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7</link>
+      <description>Anthropic Economic Index: Insights from Claude 3.7 Sonnet</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7</guid>
+      <category>Announcements</category>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude for Education</title>
+      <link>https://www.anthropic.com/news/introducing-claude-for-education</link>
+      <description>Introducing Claude for Education</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/introducing-claude-for-education</guid>
+      <category>Education</category>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude on Google Cloud’s Vertex AI: FedRAMP High and IL2 Authorized</title>
+      <link>https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high</link>
+      <description>Claude on Google Cloud’s Vertex AI: FedRAMP High and IL2 Authorized</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high</guid>
+      <category>Product</category>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Anthropic's first developer conference: Code with Claude</title>
+      <link>https://www.anthropic.com/news/Introducing-code-with-claude</link>
+      <description>Introducing Anthropic's first developer conference: Code with Claude</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/Introducing-code-with-claude</guid>
+      <category>Event</category>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Appoints Guillaume Princen as Head of EMEA and Announces 100+ New Roles Across the Region</title>
+      <link>https://www.anthropic.com/news/head-of-EMEA-new-roles</link>
+      <description>Anthropic Appoints Guillaume Princen as Head of EMEA and Announces 100+ New Roles Across the Region</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/head-of-EMEA-new-roles</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Education Report: How University Students Use Claude</title>
+      <link>https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude</link>
+      <description>Anthropic Education Report: How University Students Use Claude</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Max Plan</title>
+      <link>https://www.anthropic.com/news/max-plan</link>
+      <description>Introducing the Max Plan</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/max-plan</guid>
+      <category>Product</category>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude takes research to new places</title>
+      <link>https://www.anthropic.com/news/research</link>
+      <description>Claude takes research to new places</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/research</guid>
+      <category>Product</category>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our Approach to Understanding and Addressing AI Harms</title>
+      <link>https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms</link>
+      <description>Our Approach to Understanding and Addressing AI Harms</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms</guid>
+      <category>Policy</category>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
