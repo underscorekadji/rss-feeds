@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Apr 2025 19:09:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 20:13:02 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -573,6 +573,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/contextual-retrieval</guid>
       <category>Product</category>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fine-tuning for Claude 3 Haiku in Amazon Bedrock is now generally available</title>
+      <link>https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga</link>
+      <description>Fine-tuning for Claude 3 Haiku in Amazon Bedrock is now generally available</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga</guid>
+      <category>Product</category>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing the Message Batches API</title>
