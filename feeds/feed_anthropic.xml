@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Apr 2025 14:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 15:13:05 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -933,6 +933,22 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025</guid>
       <category>Societal Impacts</category>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Economic Index: AI’s Impact on Software Development</title>
+      <link>https://www.anthropic.com/research/impact-software-development</link>
+      <description>Anthropic Economic Index: AI’s Impact on Software Development</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/impact-software-development</guid>
+      <category>Societal Impacts</category>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Anthropic Economic Advisory Council</title>
+      <link>https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council</link>
+      <description>Introducing the Anthropic Economic Advisory Council</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council</guid>
+      <category>Announcements</category>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
