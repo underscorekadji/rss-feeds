@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 14 May 2025 15:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 16:15:02 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -989,6 +989,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/web-search-api</guid>
       <category>Product</category>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Testing our safety defenses with a new bug bounty program</title>
+      <link>https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program</link>
+      <description>Testing our safety defenses with a new bug bounty program</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program</guid>
+      <category>Announcements</category>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
