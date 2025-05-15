@@ -13,7 +13,7 @@
       <link>https://ollama.com/blog/feed_ollama.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 May 2025 21:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 22:11:32 +0000</lastBuildDate>
     <item>
       <title>Run Llama 2 uncensored locally</title>
       <link>https://ollama.com/blog/run-llama2-uncensored-locally</link>
@@ -188,6 +188,13 @@
       <description>Avanika Narayan, Dan Biderman, and Sabri Eyuboglu from Christopher Ré's Stanford Hazy Research lab, along with Avner May, Scott Linderman, James Zou, have developed a way to shift a substantial portion of LLM workloads to consumer devices by having small on-device models (such as Llama 3.2 with Ollama) collaborate with larger models in the cloud (such as GPT-4o).</description>
       <guid isPermaLink="false">https://ollama.com/blog/minions</guid>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ollama's new engine for multimodal models</title>
+      <link>https://ollama.com/blog/multimodal-models</link>
+      <description>Ollama now supports new multimodal models with its new engine.</description>
+      <guid isPermaLink="false">https://ollama.com/blog/multimodal-models</guid>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
