@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 May 2025 14:11:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 15:10:59 +0000</lastBuildDate>
     <item>
       <title>This Year We Can End the Death Penalty in California</title>
       <link>https://paulgraham.com/prop62.html</link>
@@ -3398,6 +3398,21 @@ the world. Those two are obvious. But is there anything else? When
 I ask that, the answer that pops up is Make good new thi...</description>
       <guid isPermaLink="false">https://paulgraham.com/do.html</guid>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good Writing</title>
+      <link>https://paulgraham.com/goodwriting.html</link>
+      <description>There are two senses in which writing can be good: it can&#13;
+sound good, and the ideas can be right. It can have nice,&#13;
+flowing sentences, and it can draw correct conclusions&#13;
+about important things. It might seem as if these two&#13;
+kinds of good would be unrelated, like the speed of a car&#13;
+and the color it's painted. And yet I don't think they&#13;
+are. I think writing that sounds good is more likely to&#13;
+be right.So here we have the most exciting kind of idea: one that&#13;
+seems both preposterous and true...</description>
+      <guid isPermaLink="false">https://paulgraham.com/goodwriting.html</guid>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Lose Time and Money</title>
