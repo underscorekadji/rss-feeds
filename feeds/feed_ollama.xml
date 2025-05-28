@@ -13,7 +13,7 @@
       <link>https://ollama.com/blog/feed_ollama.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 May 2025 20:14:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 21:11:18 +0000</lastBuildDate>
     <item>
       <title>Run Llama 2 uncensored locally</title>
       <link>https://ollama.com/blog/run-llama2-uncensored-locally</link>
@@ -195,6 +195,13 @@
       <description>Ollama now supports new multimodal models with its new engine.</description>
       <guid isPermaLink="false">https://ollama.com/blog/multimodal-models</guid>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Streaming responses with tool calling</title>
+      <link>https://ollama.com/blog/streaming-tool</link>
+      <description>Ollama now supports streaming responses with tool calling. This enables all chat applications to stream content and also call tools in real time.</description>
+      <guid isPermaLink="false">https://ollama.com/blog/streaming-tool</guid>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
