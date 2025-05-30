@@ -13,7 +13,7 @@
       <link>https://ollama.com/blog/feed_ollama.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 30 May 2025 19:10:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 20:14:55 +0000</lastBuildDate>
     <item>
       <title>Run Llama 2 uncensored locally</title>
       <link>https://ollama.com/blog/run-llama2-uncensored-locally</link>
@@ -202,6 +202,13 @@
       <description>Ollama now supports streaming responses with tool calling. This enables all chat applications to stream content and also call tools in real time.</description>
       <guid isPermaLink="false">https://ollama.com/blog/streaming-tool</guid>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thinking</title>
+      <link>https://ollama.com/blog/thinking</link>
+      <description>Ollama now has the ability to enable or disable thinking. This gives users the flexibility to choose the model’s thinking behavior for different applications and use cases.</description>
+      <guid isPermaLink="false">https://ollama.com/blog/thinking</guid>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
