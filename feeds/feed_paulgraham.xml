@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Jun 2025 09:14:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 10:15:19 +0000</lastBuildDate>
     <item>
       <title>This Year We Can End the Death Penalty in California</title>
       <link>https://paulgraham.com/prop62.html</link>
@@ -3413,6 +3413,19 @@ be right.So here we have the most exciting kind of idea: one that
 seems both preposterous and true. Let's ...</description>
       <guid isPermaLink="false">https://paulgraham.com/goodwriting.html</guid>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Shape of the Essay Field</title>
+      <link>https://paulgraham.com/field.html</link>
+      <description>An essay has to tell people something they don't already know. But
+there are three different reasons people might not know something,
+and they yield three very different kinds of essays.One reason people won't know something is if it's not important to
+know. That doesn't mean it will make a bad essay. For example, you
+might write a good essay about a particular model of car. Readers
+would learn something from it. It would add to their picture of the
+world. For a handful of readers it might even ...</description>
+      <guid isPermaLink="false">https://paulgraham.com/field.html</guid>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Lose Time and Money</title>
