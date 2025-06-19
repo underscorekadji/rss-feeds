@@ -13,7 +13,7 @@
       <link>https://anthropic.com/engineering/feed_anthropic_engineering.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Jun 2025 15:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 16:14:58 +0000</lastBuildDate>
     <item>
       <title>Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -60,7 +60,7 @@
       <description>Our Research feature uses multiple Claude agents to explore complex topics more effectively. We share the engineering challenges and the lessons we learned from building this system.</description>
       <guid isPermaLink="false">https://www.anthropic.com/engineering/built-multi-agent-research-system</guid>
       <category>Engineering</category>
-      <pubDate>Thu, 19 Jun 2025 15:12:50 +0000</pubDate>
+      <pubDate>Thu, 19 Jun 2025 16:14:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
