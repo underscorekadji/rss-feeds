@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Jun 2025 16:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 17:12:58 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1061,6 +1061,22 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/claude-code-remote-mcp</guid>
       <category>Product</category>
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turn ideas into interactive AI-powered apps</title>
+      <link>https://www.anthropic.com/news/build-artifacts</link>
+      <description>Turn ideas into interactive AI-powered apps</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/build-artifacts</guid>
+      <category>Product</category>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build and share AI-powered apps with Claude</title>
+      <link>https://www.anthropic.com/news/claude-powered-artifacts</link>
+      <description>Build and share AI-powered apps with Claude</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-powered-artifacts</guid>
+      <category>Product</category>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
