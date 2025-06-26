@@ -22,5 +22,9 @@
   "https://www.anthropic.com/engineering/contextual-retrieval": {
     "title": "Introducing Contextual Retrieval",
     "date": "2024-09-19T00:00:00+00:00"
+  },
+  "https://www.anthropic.com/engineering/desktop-extensions": {
+    "title": "Desktop Extensions: One-click MCP server installation for Claude Desktop",
+    "date": "2025-06-26T16:17:01.917327+00:00"
   }
 }
