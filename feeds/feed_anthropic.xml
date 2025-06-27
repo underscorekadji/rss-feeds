@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Jun 2025 09:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 10:14:09 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1084,6 +1084,14 @@
       <description>How People Use Claude for Support, Advice, and Companionship</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship</guid>
       <category>News</category>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Anthropic Economic Futures Program</title>
+      <link>https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program</link>
+      <description>Introducing the Anthropic Economic Futures Program</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program</guid>
+      <category>Announcements</category>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
