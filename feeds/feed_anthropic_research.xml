@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Jun 2025 17:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 18:38:50 +0000</lastBuildDate>
     <item>
       <title>A General Language Assistant as a Laboratory for Alignment</title>
       <link>https://www.anthropic.com/research/a-general-language-assistant-as-a-laboratory-for-alignment</link>
@@ -549,6 +549,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/agentic-misalignment</guid>
       <category>Research</category>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Project Vend: Can Claude run a small shop? (And why does that matter?)</title>
+      <link>https://www.anthropic.com/research/project-vend-1</link>
+      <description>Project Vend: Can Claude run a small shop? (And why does that matter?)</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/project-vend-1</guid>
+      <category>Research</category>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
