@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic_news.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Jul 2025 15:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 16:17:41 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1117,6 +1117,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/advancing-claude-for-education</guid>
       <category>Product</category>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic and the Department of Defense to advance responsible AI in defense operations</title>
+      <link>https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations</link>
+      <description>Anthropic and the Department of Defense to advance responsible AI in defense operations</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations</guid>
+      <category>Announcements</category>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
