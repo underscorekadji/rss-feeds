@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Jul 2025 19:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 20:15:25 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1163,6 +1163,14 @@
       <link>https://www.anthropic.com/news/eu-code-practice</link>
       <description>Anthropic to sign the EU Code of Practice</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/eu-code-practice</guid>
+      <category>Policy</category>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build AI in America</title>
+      <link>https://www.anthropic.com/news/build-ai-in-america</link>
+      <description>Build AI in America</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/build-ai-in-america</guid>
       <category>Policy</category>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
     </item>
