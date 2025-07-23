@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic_news.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Jul 2025 14:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 15:15:36 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1173,6 +1173,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/build-ai-in-america</guid>
       <category>Policy</category>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic partners with the University of Chicago’s Becker Friedman Institute on AI economic research</title>
+      <link>https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic</link>
+      <description>Anthropic partners with the University of Chicago’s Becker Friedman Institute on AI economic research</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic</guid>
+      <category>Announcements</category>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
