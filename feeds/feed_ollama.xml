@@ -13,7 +13,7 @@
       <link>https://ollama.com/blog/feed_ollama.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Jul 2025 20:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 21:04:20 +0000</lastBuildDate>
     <item>
       <title>Run Llama 2 uncensored locally</title>
       <link>https://ollama.com/blog/run-llama2-uncensored-locally</link>
@@ -216,6 +216,13 @@
       <description>Secure Minions is a secure protocol built by Stanford's Hazy Research lab to allow encrypted local-remote communication.</description>
       <guid isPermaLink="false">https://ollama.com/blog/secureminions</guid>
       <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ollama's new app</title>
+      <link>https://ollama.com/blog/new-app</link>
+      <description>Ollama's new app is now available for macOS and Windows.</description>
+      <guid isPermaLink="false">https://ollama.com/blog/new-app</guid>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
