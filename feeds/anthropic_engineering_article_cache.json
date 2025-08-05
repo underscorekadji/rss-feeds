@@ -26,5 +26,9 @@
   "https://www.anthropic.com/engineering/desktop-extensions": {
     "title": "Desktop Extensions: One-click MCP server installation for Claude Desktop",
     "date": "2025-06-29T18:38:51.618601+00:00"
+  },
+  "https://www.anthropic.com/engineering/multi-agent-research-system": {
+    "title": "How we built our multi-agent research system",
+    "date": "2025-06-13T00:00:00+00:00"
   }
 }
