@@ -2,7 +2,7 @@ name: Run Feeds
 
 on:
   schedule:
-    - cron: "0 * * * *" # Runs every hour
+    - cron: "0 3 * * *" # Runs every day at 3:00 AM UTC
   workflow_dispatch:
 
 jobs:
@@ -59,6 +59,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m 'Update RSS feed'
+            git commit -m 'Update RSS feed $(date -u '+%Y-%m-%d')'
             git push
           fi
